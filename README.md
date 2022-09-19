@@ -3,9 +3,6 @@
 
 - 👋 Hi, I’m @MrLuto
 
-# Hi, I'm Katherine! 👋
-
-
 ## 🚀 About Me
 
 - 👀 I’m interested in developement gaming and sailing
