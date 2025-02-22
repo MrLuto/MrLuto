@@ -6,11 +6,11 @@
 ## 🚀 About Me
 
 - 👀 I’m interested in developement gaming and sailing
-- 🌱 I’m currently studying IT systems and devices
-- 📫 How to reach me www.byluto.nl
+- 🌱 I’m currently studying Nothing
+- 📫 You can find my site at [www.byluto.nl](https://www.byluto.nl)
 
 ## 🛠 Skills
-Javascript, HTML, CSS, php, go, c#, ect
+Basic developement mainly in (node)js
 
 
 ## 🔗 Links
